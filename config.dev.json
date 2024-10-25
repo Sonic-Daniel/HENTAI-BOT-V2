@@ -13,13 +13,14 @@
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
 	"nickNameBot": "( ´･ω･`)_且~ 𝙻𝙴 𝚅𝙸𝙳𝙴 ☄︎",
-	"prefix": "%",
+	"prefix": "♧",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
 	"adminBot": [
-       "100084918384589"
+       "100084918384589",
+       "25688493477463000"
 ],
 
 	"whiteListMode": {
